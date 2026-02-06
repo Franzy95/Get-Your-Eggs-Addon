@@ -25,3 +25,8 @@ run/
 
 # macos
 *.DS_Store
+
+# btw
+/build_BTW/
+/custom_mappings/
+/mavenRepo/
