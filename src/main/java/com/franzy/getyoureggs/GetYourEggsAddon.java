@@ -1,7 +1,7 @@
 package com.franzy.getyoureggs;
 
-import btw.AddonHandler;
-import btw.BTWAddon;
+import api.AddonHandler;
+import api.BTWAddon;
 
 public class GetYourEggsAddon extends BTWAddon {
     private static GetYourEggsAddon instance;
