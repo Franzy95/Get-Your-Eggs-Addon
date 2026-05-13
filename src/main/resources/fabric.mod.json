@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "gye",
-  "version": "1.0.0",
+  "version": "1.0.1+BTW-3.1.0",
   "name": "Get Your Eggs",
   "description": "Sends a chat message when a chicken lays an egg.",
   "authors": [
